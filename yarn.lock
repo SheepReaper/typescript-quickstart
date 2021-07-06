@@ -2106,13 +2106,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:^7.2.12":
-  version: 7.2.12
-  resolution: "@types/eslint@npm:7.2.12"
+"@types/eslint@npm:7.2.14":
+  version: 7.2.14
+  resolution: "@types/eslint@npm:7.2.14"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: 476bf25bc8e0a5c13bc85dc09968be9176e5cd34d79be253a481ee3891fed8aa71ed0cd5d255b4d00fac81e2116337c99490fbcc0bdbb130070062fb1b901784
+  checksum: e7ab90a295beae9495e3241a57078cc36dd1b7e58d0d2605d927abbe6eee5b8996ab6aff0f6d230da93d5f0361b737416dd8137f6c89d38f19d3d1f51f34d22d
   languageName: node
   linkType: hard
 
@@ -8526,7 +8526,7 @@ resolve@^1.14.2:
   version: 0.0.0-use.local
   resolution: "typescript-yarn2-parcel-prettier-eslint-vscode-project-template@workspace:."
   dependencies:
-    "@types/eslint": ^7.2.12
+    "@types/eslint": 7.2.14
     "@types/prettier": ^2.2.3
     eslint: ^7.27.0
     parcel: 2.0.0-nightly.631

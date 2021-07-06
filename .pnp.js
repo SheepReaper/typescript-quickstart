@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/prettier", "npm:2.2.3"],
             ["eslint", "npm:7.27.0"],
             ["parcel", "npm:2.0.0-nightly.631"],
@@ -3269,10 +3269,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/eslint", [
-        ["npm:7.2.12", {
-          "packageLocation": "./.yarn/cache/@types-eslint-npm-7.2.12-5d64937320-476bf25bc8.zip/node_modules/@types/eslint/",
+        ["npm:7.2.14", {
+          "packageLocation": "./.yarn/cache/@types-eslint-npm-7.2.14-0a338c7eb8-e7ab90a295.zip/node_modules/@types/eslint/",
           "packageDependencies": [
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/estree", "npm:0.0.47"],
             ["@types/json-schema", "npm:7.0.7"]
           ],
@@ -4598,7 +4598,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js", [
         ["npm:3.13.0", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.13.0-628ebe56e7/node_modules/core-js/",
+          "packageLocation": "./.yarn/cache/core-js-npm-3.13.0-628ebe56e7-ec1fb8ee66.zip/node_modules/core-js/",
           "packageDependencies": [
             ["core-js", "npm:3.13.0"]
           ],
@@ -5287,7 +5287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["ejs", [
         ["npm:2.7.4", {
-          "packageLocation": "./.yarn/unplugged/ejs-npm-2.7.4-879ed38a4e/node_modules/ejs/",
+          "packageLocation": "./.yarn/cache/ejs-npm-2.7.4-879ed38a4e-f066d9a932.zip/node_modules/ejs/",
           "packageDependencies": [
             ["ejs", "npm:2.7.4"]
           ],
@@ -10527,7 +10527,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["typescript-yarn2-parcel-prettier-eslint-vscode-project-template", "workspace:."],
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/prettier", "npm:2.2.3"],
             ["eslint", "npm:7.27.0"],
             ["parcel", "npm:2.0.0-nightly.631"],
