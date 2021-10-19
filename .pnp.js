@@ -38,10 +38,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/eslint", "npm:7.2.12"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.4.1"],
             ["eslint", "npm:7.27.0"],
             ["parcel", "npm:2.0.0-nightly.631"],
-            ["prettier", "npm:2.3.0"],
+            ["prettier", "npm:2.4.1"],
             ["typescript", "patch:typescript@npm%3A4.2.4#builtin<compat/typescript>::version=4.2.4&hash=a45b0e"]
           ],
           "linkType": "SOFT",
@@ -3317,10 +3317,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/prettier", [
-        ["npm:2.2.3", {
-          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.2.3-6036e6d94a-b7e80288f9.zip/node_modules/@types/prettier/",
+        ["npm:2.4.1", {
+          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.4.1-d83bd651f7-c191cf299f.zip/node_modules/@types/prettier/",
           "packageDependencies": [
-            ["@types/prettier", "npm:2.2.3"]
+            ["@types/prettier", "npm:2.4.1"]
           ],
           "linkType": "HARD",
         }]
@@ -4598,7 +4598,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js", [
         ["npm:3.13.0", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.13.0-628ebe56e7/node_modules/core-js/",
+          "packageLocation": "./.yarn/cache/core-js-npm-3.13.0-628ebe56e7-ec1fb8ee66.zip/node_modules/core-js/",
           "packageDependencies": [
             ["core-js", "npm:3.13.0"]
           ],
@@ -5287,7 +5287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["ejs", [
         ["npm:2.7.4", {
-          "packageLocation": "./.yarn/unplugged/ejs-npm-2.7.4-879ed38a4e/node_modules/ejs/",
+          "packageLocation": "./.yarn/cache/ejs-npm-2.7.4-879ed38a4e-f066d9a932.zip/node_modules/ejs/",
           "packageDependencies": [
             ["ejs", "npm:2.7.4"]
           ],
@@ -9058,10 +9058,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prettier", [
-        ["npm:2.3.0", {
-          "packageLocation": "./.yarn/cache/prettier-npm-2.3.0-29ef37e8b6-652640cc8b.zip/node_modules/prettier/",
+        ["npm:2.4.1", {
+          "packageLocation": "./.yarn/cache/prettier-npm-2.4.1-623aac91ee-d72ebe3344.zip/node_modules/prettier/",
           "packageDependencies": [
-            ["prettier", "npm:2.3.0"]
+            ["prettier", "npm:2.4.1"]
           ],
           "linkType": "HARD",
         }]
@@ -10528,10 +10528,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["typescript-yarn2-parcel-prettier-eslint-vscode-project-template", "workspace:."],
             ["@types/eslint", "npm:7.2.12"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.4.1"],
             ["eslint", "npm:7.27.0"],
             ["parcel", "npm:2.0.0-nightly.631"],
-            ["prettier", "npm:2.3.0"],
+            ["prettier", "npm:2.4.1"],
             ["typescript", "patch:typescript@npm%3A4.2.4#builtin<compat/typescript>::version=4.2.4&hash=a45b0e"]
           ],
           "linkType": "SOFT",
