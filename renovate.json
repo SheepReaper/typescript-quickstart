@@ -18,7 +18,6 @@
     ":enableVulnerabilityAlertsWithLabel(vulnerability)",
     ":assignAndReview(SheepReaper)",
     ":dependencyDashboard",
-    // ":followTag(parcel, nightly)",
     ":semanticCommits"
   ]
 }
