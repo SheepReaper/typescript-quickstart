@@ -1029,7 +1029,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:^8.4.1":
+"@types/eslint@npm:8.4.1":
   version: 8.4.1
   resolution: "@types/eslint@npm:8.4.1"
   dependencies:
@@ -1067,14 +1067,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:^2.4.4":
+"@types/prettier@npm:2.4.4":
   version: 2.4.4
   resolution: "@types/prettier@npm:2.4.4"
   checksum: 2c2cc57efd49c7d8907415a72f96c84a6dd8696dd3bf8aa4ca3a667427bebf71cbfbc912673624bdfc935d272d1c008c639cf155f6449315990a4dc110f0d216
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.12.1":
+"@typescript-eslint/eslint-plugin@npm:5.12.1":
   version: 5.12.1
   resolution: "@typescript-eslint/eslint-plugin@npm:5.12.1"
   dependencies:
@@ -1097,7 +1097,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.12.1":
+"@typescript-eslint/parser@npm:5.12.1":
   version: 5.12.1
   resolution: "@typescript-eslint/parser@npm:5.12.1"
   dependencies:
@@ -1947,7 +1947,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.4.0":
+"eslint-config-prettier@npm:8.4.0":
   version: 8.4.0
   resolution: "eslint-config-prettier@npm:8.4.0"
   peerDependencies:
@@ -2003,7 +2003,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.10.0":
+"eslint@npm:8.10.0":
   version: 8.10.0
   resolution: "eslint@npm:8.10.0"
   dependencies:
@@ -3546,7 +3546,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.5.1":
+"prettier@npm:2.5.1":
   version: 2.5.1
   resolution: "prettier@npm:2.5.1"
   bin:
@@ -4052,19 +4052,19 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "typescript-yarn2-parcel-prettier-eslint-vscode-project-template@workspace:."
   dependencies:
-    "@types/eslint": ^8.4.1
-    "@types/prettier": ^2.4.4
-    "@typescript-eslint/eslint-plugin": ^5.12.1
-    "@typescript-eslint/parser": ^5.12.1
-    eslint: ^8.10.0
-    eslint-config-prettier: ^8.4.0
+    "@types/eslint": 8.4.1
+    "@types/prettier": 2.4.4
+    "@typescript-eslint/eslint-plugin": 5.12.1
+    "@typescript-eslint/parser": 5.12.1
+    eslint: 8.10.0
+    eslint-config-prettier: 8.4.0
     parcel: 2.3.2
-    prettier: ^2.5.1
-    typescript: ^4.5.5
+    prettier: 2.5.1
+    typescript: 4.5.5
   languageName: unknown
   linkType: soft
 
-"typescript@npm:^4.5.5":
+"typescript@npm:4.5.5":
   version: 4.5.5
   resolution: "typescript@npm:4.5.5"
   bin:
@@ -4074,7 +4074,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.5.5#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.5.5#~builtin<compat/typescript>":
   version: 4.5.5
   resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=bda367"
   bin:
