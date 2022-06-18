@@ -1033,10 +1033,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:2.4.4":
-  version: 2.4.4
-  resolution: "@types/prettier@npm:2.4.4"
-  checksum: 2c2cc57efd49c7d8907415a72f96c84a6dd8696dd3bf8aa4ca3a667427bebf71cbfbc912673624bdfc935d272d1c008c639cf155f6449315990a4dc110f0d216
+"@types/prettier@npm:2.6.3":
+  version: 2.6.3
+  resolution: "@types/prettier@npm:2.6.3"
+  checksum: e1836699ca189fff6d2a73dc22e028b6a6f693ed1180d5998ac29fa197caf8f85aa92cb38db642e4a370e616b451cb5722ad2395dab11c78e025a1455f37d1f0
   languageName: node
   linkType: hard
 
@@ -3442,12 +3442,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.5.1":
-  version: 2.5.1
-  resolution: "prettier@npm:2.5.1"
+"prettier@npm:2.7.1":
+  version: 2.7.1
+  resolution: "prettier@npm:2.7.1"
   bin:
     prettier: bin-prettier.js
-  checksum: 21b9408476ea1c544b0e45d51ceb94a84789ff92095abb710942d780c862d0daebdb29972d47f6b4d0f7ebbfb0ffbf56cc2cfa3e3e9d1cca54864af185b15b66
+  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
   languageName: node
   linkType: hard
 
@@ -3942,13 +3942,13 @@ __metadata:
   resolution: "typescript-yarn2-parcel-prettier-eslint-vscode-project-template@workspace:."
   dependencies:
     "@types/eslint": 8.4.1
-    "@types/prettier": 2.4.4
+    "@types/prettier": 2.6.3
     "@typescript-eslint/eslint-plugin": 5.12.1
     "@typescript-eslint/parser": 5.12.1
     eslint: 8.10.0
     eslint-config-prettier: 8.4.0
     parcel: 2.3.2
-    prettier: 2.5.1
+    prettier: 2.7.1
     typescript: 4.5.5
   languageName: unknown
   linkType: soft
