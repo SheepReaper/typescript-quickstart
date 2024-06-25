@@ -1,17 +1,17 @@
-import tsParser from "@typescript-eslint/parser";
-import tsEslint from "@typescript-eslint/eslint-plugin";
+//@ts-check
+import eslint from "@eslint/js";
+import tsEslint from "typescript-eslint";
 import prettierConfig from "eslint-config-prettier";
 
-export default [
+export default tsEslint.config(
+  eslint.configs.recommended,
+  ...tsEslint.configs.stylisticTypeChecked,
   {
-    files: ["**/*.ts", "**/*.mts"],
-    plugins: {
-      tsEslint,
-    },
     languageOptions: {
-      parser: tsParser,
-      project: "./tsconfig.json",
+      parserOptions: {
+        project: true,
+      },
     },
   },
   prettierConfig,
-];
+);
